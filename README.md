@@ -1,5 +1,5 @@
 
-Hi, I'm Cameron
+Hi, I'm Cameron. 
 
 I’m a Computer Science graduate from Oregon State University (December 2025), focused on building backend systems and data-driven applications.
 
