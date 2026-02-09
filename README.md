@@ -1,6 +1,6 @@
 
-
-I’m Cameron, a Computer Science student at Oregon State University (graduating December 2025) with a focus on software development and backend systems.
+Hi, I'm Cameron
+I’m a Computer Science graduate from Oregon State University (December 2025), focused on building backend systems and data-driven applications.
 
 - Currently building a Flask-based backend for a deep-learning music genre classification app using TensorFlow and Keras.
 - Expanding my skills in JavaScript through The Odin Project
