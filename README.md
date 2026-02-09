@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 I’m Cameron, a Computer Science student at Oregon State University (graduating December 2025) with a focus on software development and backend systems.
 
